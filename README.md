@@ -24,7 +24,7 @@ Pure Java implementation of libzmq (http://zeromq.org)
 
 * build your own StreamEngine's Decoder/Encoder
  * [TestProxyTcp](https://github.com/zeromq/jeromq/blob/master/src/test/java/zmq/TestProxyTcp.java)
- * [Proxy](https://github.com/zeromq/jeromq/blob/master/src/main/java/org/jeromq/codec/Proxy.java)
+ * [Proxy](blob/master/src/main/java/zmq/Proxy.java)
 
 ## Contribution Process
 
